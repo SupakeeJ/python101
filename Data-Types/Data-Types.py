@@ -1,6 +1,5 @@
 import math
 
-
 first = "Dave"
 last = "Gray"
 
